@@ -60,11 +60,19 @@ footer {
 	h1 {
 	font-size: 1em;
 	}
+	.container2 {
+	width: 100%;
+
+	}
 }
 
 /* Small devices (landscape phones, less than 768px)*/
 @media (max-width: 767.98px) { 
 	h1 {
 		font-size: 3em;
+	}
+	.container2 {
+	width: 100%;
+
 	}
 }
