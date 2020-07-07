@@ -51,3 +51,19 @@ footer {
 	background: #EEEEEE;
 	padding: 50px;
 }
+
+/*** MEDIA QUERIES ***/
+
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	h1 {
+	font-size: 1em;
+	}
+}
+
+/* Small devices (landscape phones, less than 768px)*/
+@media (max-width: 767.98px) { 
+	h1 {
+		font-size: 3em;
+	}
+}
